@@ -1,0 +1,7 @@
+﻿  ConsoleApplication2.cpp
+C:\Users\bbrit\source\repos\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(30,27): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+C:\Users\bbrit\source\repos\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(33,44): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+C:\Users\bbrit\source\repos\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(44,23): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\bbrit\source\repos\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(121,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\bbrit\source\repos\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(123,25): warning C4101: k: неиспользованная локальная переменная
+  ConsoleApplication2.vcxproj -> C:\Users\bbrit\source\repos\ConsoleApplication2\Debug\ConsoleApplication2.exe
